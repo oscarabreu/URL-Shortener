@@ -66,3 +66,10 @@ BoltDB Format
 
 Use a BoltDB file with a bucket named `pathstourls`. Store key-value pairs 
 where the key is the path, and the value is the corresponding URL.
+
+## Credits
+
+
+
+This program is based on tutorials by [John Calhoun](https://github.com/joncalhoun). I followed along with his guidance, and will expand upon it. 
+Special thanks to John for his valuable teachings and resources.
