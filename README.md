@@ -69,7 +69,5 @@ where the key is the path, and the value is the corresponding URL.
 
 ## Credits
 
-
-
 This program is based on tutorials by [John Calhoun](https://github.com/joncalhoun). I followed along with his guidance, and plan to expan upon it very soon. 
 Special thanks to John for his valuable teachings and resources, please check out https://gophercises.com/ and support his work.
